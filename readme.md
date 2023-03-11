@@ -51,3 +51,14 @@ The idea is that it's modular, and you can use different algorithms for doing an
 ## For generating a response:
 - openai's codex, 3.5-turbo, or novelai's api (set to the finetuned 20B model but you do need Opus to use that one) to generate answer a question.
 - I feel like the hardest part of this are still ahead of me: finding good text snippets, ranking them, and assembling them into an AI input
+
+# misc
+```
+"just use google bro"
+no, google searches over articles not snippets, also it doesnt talk to you, also ads and search-engine optimizations are super annoying
+
+"just use bing bro"
+the bing interface is ugly af, also i dont have access
+
+in general, i just dont care if this exists or is obsolete, it just felt cool to make :p  especially on a whim.
+```
