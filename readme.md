@@ -55,7 +55,7 @@ The idea is that it's modular, and you can use different algorithms for doing an
 # screeeshots
 - with gpt turbo
 - ![Schermopname (5)](https://user-images.githubusercontent.com/112716905/224482529-6d6533fa-e5ad-4bea-9d1e-24c5d54b4140.png)
-- with krake, a neox-20b model finetuned by NovelAI on stories, also uses a soft prompt trained on HP Lovecraft. not well suited for this lol.
+- with krake, a neox-20b model finetuned by NovelAI on stories, also i used a soft prompt trained on HP Lovecraft. not well suited for this lol. (why the Lovecraft module? idk. why not.)
 - ![Schermopname (6)](https://user-images.githubusercontent.com/112716905/224482565-a7f838b4-126f-4cd7-8d48-5ccf0dbefa8f.png)
 
 
