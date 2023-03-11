@@ -53,16 +53,10 @@ The idea is that it's modular, and you can use different algorithms for doing an
 - I feel like the hardest part of this are still ahead of me: finding good text snippets, ranking them, and assembling them into an AI input
 
 # screeeshots
-- asking a question, being asked to write snippets
-    + ![qa 1](https://user-images.githubusercontent.com/112716905/224481226-634d7dbc-8cbe-4b05-b23d-2dad68eeb574.png)
-- input and output with provider = 'novelai'  (= Krake = neox 20b finetuned on stories, also using a soft prompt trained on HP Lovecraft lol, not suited for this task lol)
-    + ![qa 2](https://user-images.githubusercontent.com/112716905/224481490-a2bd7b1b-fcab-4245-a31f-674b88fbb9e7.png)
-    + ![qa 3](https://user-images.githubusercontent.com/112716905/224481493-b4aa8529-4b13-4314-9f85-9f27c456dac1.png)
-- input and output with provider = 'turbo'
-    + ![io for turbo](https://user-images.githubusercontent.com/112716905/224481478-6e65ed44-9393-4d87-8cc0-827c46adf4ee.png)
+- ![Schermopname (3)](https://user-images.githubusercontent.com/112716905/224482087-0eebdff0-6062-4f03-a88c-e3d7a6775ea1.png)
+- ![Schermopname (4)](https://user-images.githubusercontent.com/112716905/224482091-68f9884c-01b7-4d0b-9ade-6da2b8e599ac.png)
 
-
-(i really need better screenshot software.)
+(after beating google ill go make a screenshot tool that actually fucking works)
 
 # misc
 ```
