@@ -30,7 +30,5 @@ while True:
 # requirements  (as far as i know):
 - a secrets.py with openai_key and novelai_key (depending on which one(s) you wanna use)
 - package installs:
-    - (for getting snippets) wikipedia https://github.com/goldsmith/Wikipedia
-    - (for getting snippets) wikipediaapi https://github.com/martin-majlis/Wikipedia-API
     - (for novelai api call) requests https://pypi.org/project/requests/
     - (for openai api call) openai https://github.com/openai/openai-python
