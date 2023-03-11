@@ -69,6 +69,4 @@ no, google searches over articles not snippets, also it doesnt talk to you, also
 
 "just use bing bro"
 the bing interface is ugly af, also i dont have access
-
-in general, i just dont care if this exists or is obsolete, it just felt cool to make :p  especially on a whim.
 ```
