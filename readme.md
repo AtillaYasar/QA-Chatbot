@@ -32,3 +32,11 @@ while True:
 - package installs:
     - (for novelai api call) requests https://pypi.org/project/requests/
     - (for openai api call) openai https://github.com/openai/openai-python
+
+# thoughts/notes
+It is runnable in its current form, api's it uses:
+- openai's codex, 3.5-turbo, or novelai's api (set to the finetuned 20B model but you do need Opus to use that one) to generate answer a question.
+- I feel like the hardest part of this are still ahead of me: finding good text snippets, ranking them, and assembling them into an AI input
+- for the "get snippets" part:
+    + i played a bit with getting info from wikipedia https://github.com/AtillaYasar/random-collection-of-things/blob/main/wiki_poc.py
+    + for ranking snippets, i know 2 apis: the openai api which i played with a bit and is easy to use, and https://github.com/different-ai/embedbase which also uses openai afaik.
