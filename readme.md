@@ -53,10 +53,14 @@ The idea is that it's modular, and you can use different algorithms for doing an
 - I feel like the hardest part of this are still ahead of me: finding good text snippets, ranking them, and assembling them into an AI input
 
 # screeeshots
-- ![Schermopname (3)](https://user-images.githubusercontent.com/112716905/224482087-0eebdff0-6062-4f03-a88c-e3d7a6775ea1.png)
-- ![Schermopname (4)](https://user-images.githubusercontent.com/112716905/224482091-68f9884c-01b7-4d0b-9ade-6da2b8e599ac.png)
+- with gpt turbo
+- ![Schermopname (5)](https://user-images.githubusercontent.com/112716905/224482529-6d6533fa-e5ad-4bea-9d1e-24c5d54b4140.png)
+- with krake, a neox-20b model finetuned by NovelAI on stories, also uses a soft prompt trained on HP Lovecraft. not well suited for this lol.
+- ![Schermopname (6)](https://user-images.githubusercontent.com/112716905/224482565-a7f838b4-126f-4cd7-8d48-5ccf0dbefa8f.png)
 
-(after beating google ill go make a screenshot tool that actually fucking works)
+
+
+( sorry i cant find a proper screenshot tool)
 
 # misc
 ```
