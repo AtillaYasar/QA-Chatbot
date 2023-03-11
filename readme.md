@@ -1,4 +1,4 @@
-It is runnable in its current form, though you do need secrets.py with an openai and novelai key. (I should that to only require a key the moment you actually want to use an API)
+It is runnable in its current form, though you do need secrets.py with an openai and novelai key. (I should change that to only require a key the moment you actually want to use an API)
 
 # the basic idea
 ```python
